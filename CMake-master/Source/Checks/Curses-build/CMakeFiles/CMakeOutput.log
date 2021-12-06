@@ -1,0 +1,42 @@
+Determining if the function wsyncup exists in the /usr/lib/x86_64-linux-gnu/libcurses.so passed with the following output:
+Change Dir: /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_207d4/fast && make  -f CMakeFiles/cmTC_207d4.dir/build.make CMakeFiles/cmTC_207d4.dir/build
+make[1]: Entering directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_207d4.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=wsyncup -o CMakeFiles/cmTC_207d4.dir/CheckFunctionExists.c.o -c /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Modules/CheckFunctionExists.c
+Linking C executable cmTC_207d4
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_207d4.dir/link.txt --verbose=1
+/usr/bin/gcc  -DCHECK_FUNCTION_EXISTS=wsyncup -rdynamic CMakeFiles/cmTC_207d4.dir/CheckFunctionExists.c.o -o cmTC_207d4  -lcurses 
+make[1]: Leaving directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function cbreak exists in the /usr/lib/x86_64-linux-gnu/libncurses.so passed with the following output:
+Change Dir: /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_1efed/fast && make  -f CMakeFiles/cmTC_1efed.dir/build.make CMakeFiles/cmTC_1efed.dir/build
+make[1]: Entering directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1efed.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=cbreak -o CMakeFiles/cmTC_1efed.dir/CheckFunctionExists.c.o -c /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1efed
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_1efed.dir/link.txt --verbose=1
+/usr/bin/gcc  -DCHECK_FUNCTION_EXISTS=cbreak -rdynamic CMakeFiles/cmTC_1efed.dir/CheckFunctionExists.c.o -o cmTC_1efed  -lncurses 
+make[1]: Leaving directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function nodelay exists in the /usr/lib/x86_64-linux-gnu/libncurses.so passed with the following output:
+Change Dir: /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f2a4e/fast && make  -f CMakeFiles/cmTC_f2a4e.dir/build.make CMakeFiles/cmTC_f2a4e.dir/build
+make[1]: Entering directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f2a4e.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=nodelay -o CMakeFiles/cmTC_f2a4e.dir/CheckFunctionExists.c.o -c /home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f2a4e
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_f2a4e.dir/link.txt --verbose=1
+/usr/bin/gcc  -DCHECK_FUNCTION_EXISTS=nodelay -rdynamic CMakeFiles/cmTC_f2a4e.dir/CheckFunctionExists.c.o -o cmTC_f2a4e  -lncurses 
+make[1]: Leaving directory '/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses-build/CMakeFiles/CMakeTmp'
+
+
+

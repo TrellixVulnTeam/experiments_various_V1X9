@@ -1,0 +1,3 @@
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Help/guide/tutorial/build/CMakeFiles/Tutorial.dir
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Help/guide/tutorial/build/CMakeFiles/edit_cache.dir
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Help/guide/tutorial/build/CMakeFiles/rebuild_cache.dir

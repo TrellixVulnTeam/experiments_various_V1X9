@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hem/work/umbrella_proj/ongoing_exps/CMake-master/Source/Checks/Curses/CheckCurses.c
+ncurses.h
+-
+ncurses/ncurses.h
+-
+ncurses/curses.h
+-
+curses.h
+-
+
